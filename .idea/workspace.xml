@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="304c7228-0dc3-4a5f-a74d-4f2ede925fbb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FormikField/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FormikField/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +56,7 @@
       <workItem from="1579758831731" duration="1696000" />
       <workItem from="1579799790917" duration="615000" />
       <workItem from="1579838542094" duration="6880000" />
+      <workItem from="1579852328827" duration="291000" />
     </task>
     <servers />
   </component>
@@ -68,10 +68,10 @@
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
     <state x="355" y="-1048" key="#com.intellij.execution.impl.EditConfigurationsDialog/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579759261782" />
-    <state x="-11" y="-910" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579759453661">
+    <state x="-11" y="-910" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579852380836">
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="-11" y="-910" key="#com.intellij.fileTypes.FileTypeChooser/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579759453661" />
+    <state x="-11" y="-910" key="#com.intellij.fileTypes.FileTypeChooser/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579852380836" />
     <state width="2539" height="389" key="GridCell.Tab.0.bottom" timestamp="1579760822209">
       <screen x="-389" y="-1417" width="2560" height="1417" />
     </state>
