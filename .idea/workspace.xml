@@ -1,9 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="304c7228-0dc3-4a5f-a74d-4f2ede925fbb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/serviceWorker.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WmdiQ2ryEAiwifM952G5lT0Y13" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="304c7228-0dc3-4a5f-a74d-4f2ede925fbb" name="Default Changelist" comment="" />
+      <created>1579758830147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579758830147</updated>
+      <workItem from="1579758831731" duration="1696000" />
+      <workItem from="1579799790917" duration="615000" />
+      <workItem from="1579838542094" duration="3807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="355" y="-1048" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579759261782">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="355" y="-1048" key="#com.intellij.execution.impl.EditConfigurationsDialog/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579759261782" />
+    <state x="-11" y="-910" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579759453661">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-11" y="-910" key="#com.intellij.fileTypes.FileTypeChooser/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579759453661" />
+    <state width="2539" height="389" key="GridCell.Tab.0.bottom" timestamp="1579760822209">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2539" height="389" key="GridCell.Tab.0.bottom/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579760822209" />
+    <state width="2539" height="389" key="GridCell.Tab.0.center" timestamp="1579760822208">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2539" height="389" key="GridCell.Tab.0.center/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579760822208" />
+    <state width="2539" height="389" key="GridCell.Tab.0.left" timestamp="1579760822208">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2539" height="389" key="GridCell.Tab.0.left/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579760822208" />
+    <state width="2539" height="389" key="GridCell.Tab.0.right" timestamp="1579760822209">
+      <screen x="-389" y="-1417" width="2560" height="1417" />
+    </state>
+    <state width="2539" height="389" key="GridCell.Tab.0.right/-389.-1417.2560.1417/0.23.1680.1027@-389.-1417.2560.1417" timestamp="1579760822209" />
   </component>
 </project>
