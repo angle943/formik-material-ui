@@ -8,13 +8,14 @@ interface FormikFieldProps {
   name: string;
   label: string;
   type?: string;
+  required?: boolean;
 }
 
-const FormikField: React.FC<FormikFieldProps> = ({ name, label, type = "text" }) => {
+const FormikField: React.FC<FormikFieldProps> = ({ name, label, type = "text", required = false}) => {
   return (
     <div className="FormikField">
       <Field
-        required
+        required={required}
         autoComplete="off"
         as={TextField}
         label={label}

@@ -1,8 +1,10 @@
 import React from "react";
-import { Formik, Form, Field, ErrorMessage } from "formik";
+import { Formik, Form } from "formik";
 import * as Yup from "yup";
+import Button from "@material-ui/core/Button";
 
 import FormikField from "../FormikField";
+import FormikSelect, { FormikSelectItem } from "../FormikSelect";
 
 import "./App.css";
 
@@ -15,6 +17,25 @@ const initialValues: FormValues = {
   name: "",
   position: ""
 };
+
+const positionItems: FormikSelectItem[] = [
+  {
+    label: "Front End",
+    value: "front_end"
+  },
+  {
+    label: "Back End",
+    value: "back_end"
+  },
+  {
+    label: "Dev Ops",
+    value: "dev_ops"
+  },
+  {
+    label: "QA",
+    value: "qa"
+  }
+];
 
 const SignupSchema = Yup.object().shape({
   name: Yup.string()
@@ -39,27 +60,22 @@ const App: React.FC = () => {
         {({ dirty, isValid }) => {
           return (
             <Form>
-              <FormikField name="name" label="Name" />
+              <FormikField name="name" label="Name" required />
+              <FormikSelect
+                name="position"
+                items={positionItems}
+                label="Position"
+                required
+              />
 
-              <div>
-                <label>Position: </label>
-                <Field
-                  name="position"
-                  as="select"
-                  placeholder="Choose your Position"
-                >
-                  <option value=""></option>
-                  <option value="front-end">Front End</option>
-                  <option value="back-end">Back End</option>
-                  <option value="dev-ops">Dev Ops</option>
-                  <option value="qa">QA</option>
-                </Field>
-                <ErrorMessage name="position" />
-              </div>
-
-              <button disabled={!dirty || !isValid} type="submit">
-                Submit
-              </button>
+              <Button
+                variant="contained"
+                color="primary"
+                disabled={!dirty || !isValid}
+                type="submit"
+              >
+                Primary
+              </Button>
             </Form>
           );
         }}
